@@ -36,11 +36,8 @@ Gunakan akun berikut:
 
 ---
 
-* Nama: Rizky Surya
+* Nama: Rizky Surya Diputra
+* Nim: 23552011390
 * Project: Tugas1 - Pemrograman Mobile I
 
 ---
-
-## 📄 Lisensi
-
-Digunakan untuk keperluan pembelajaran.
